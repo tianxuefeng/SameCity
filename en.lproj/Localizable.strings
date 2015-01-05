@@ -1,0 +1,308 @@
+/*
+  Localizable.strings
+  samecity
+
+  Created by zengchao on 14/11/23.
+  Copyright (c) 2014年 com.stefan. All rights reserved.
+*/
+
+//<!-- title -->
+"title_welcome"     =       "welcome";
+"title_exit"        =       "exit";
+"title_delete"      =       "delete";
+"title_clear"       =       "clear";
+"title_reply"       =       "reply";
+"title_floor"       =       "floor";
+"title_I_review"    =       "I review";
+"title_NO_name"     =       "anonymous";
+"title_map"         =       "map";
+"title_view_user"   =       "my details";
+
+"title_appname"     =       "city-wide";
+"title_setting"     =       "settings";
+"title_feedback"    =       "feedback";
+"title_aboutus"     =       "about us";
+
+//<!-- label txt -->
+"lab_login"         =       "login";
+"lab_time"          =       "time";
+"lab_sendTime"      =       "release time";
+"lab_price"         =       "price";
+"lab_detail"        =       "detail";
+"lab_send_title"    =       "title";
+"lab_send_desc"     =       "description";
+"lab_send_price"    =       "price";
+"lab_send_price_unit"   =   "dollar";
+"lab_send_region"   =       "region";
+"lab_send_address"  =       "address";
+"lab_send_pay_type" =       "transaction type";
+"lab_send_qq"       =       "QQ/Skype";
+"lab_send_username" =       "contact";
+"lab_send_phone"    =       "handphone";
+
+"lab_qq"            =       "QQ/Skype";
+"lab_username"      =       "contact:";
+"lab_phone"         =       "contacts";
+"lab_detail_phone"  =       "handphone:";
+
+"lab_city"          =       "city";
+"lab_address"       =       "address";
+"lab_message"       =       "message";
+
+"lab_main_address"  =       "region";
+
+"lab_register_name" =       "name";
+"lab_list_category_all" =   "all category:";
+"lab_list_type"         =   "type";
+
+"lab_email"             =   "email";
+"lab_password"          =   "password";
+"lab_password2"         =   "repeat password";
+"lab_detail_info"       =   "details";
+"lab_detail_message"    =   "remarks";
+
+"lab_send_buyers"       =   "buyer";
+"lab_send_seller"       =   "seller";
+
+"lab_category_parent_name"  =   "parent category";
+"lab_category_name"         =   "category name";
+"lab_category_new_name"     =   "change category name";
+
+"lab_send_category"         =   "category";
+"lab_category_man"          =   "category management";
+"lab_select_category"       =   "select category";
+"lab_add_category"          =   "add category";
+"lab_edit_category"         =   "edit category";
+
+"lab_user_message"          =   "message center";
+"lab_user_send"             =   "my upload";
+"lab_user_favorites"        =   "my favorites";
+"lab_user_history"          =   "browsing history";
+
+"lab_user_operator"         =   "operator";
+"lab_user_score"            =   "my credit";
+"lab_category_sequence"     =   "cagetory sequence";
+
+"lab_user_like"             =   "Guess You Like";
+"lab_user_search"           =   "quick search";
+
+"lab_user_manage"           =   "administration center";
+
+"lab_gps_location"          =   "GPS location";
+"lab_location_address"      =   "locate";
+"lab_location_country"      =   "country";
+"lab_location_city"         =   "city";
+"lab_location_locality"     =   "region";
+"lab_location_region"       =   "street";
+
+"lab_select"                =   "select";
+"lab_all_select"            =   "check all";
+"lab_all_unselect"          =   "uncheck all";
+
+"lab_local_sel_pro"         =   "select province";
+"lab_local_sel_area"        =   "select region";
+"lab_local_add_area"        =   "add region";
+"lab_local_add_good"        =   "add goods";
+
+"lab_region_parent_name"    =   "parent region";
+"lab_region_name"           =   "region name";
+
+"lab_location_not"          =   "not yet located";
+"lab_localing"              =   "locating...";
+"lab_localing_regex"        =   "locate successfully,processing...";
+
+"lab_location_old"          =   "last locating information";
+"lab_local_cur"             =   "current location:";
+
+"lab_register"              =   "register new user";
+"lab_not"                   =   "no";
+
+"lab_detail_reads"          =   "heat rate:";
+
+"lab_detail_msg"            =   "I will comment";
+
+"history_NoInfo"            =   "no info";
+
+//<!-- edit hint -->
+"hint_title"                =   "please input title";
+"hint_content"              =   "please input content";
+"hint_desc"                 =   "status,bright spot and so on.Advice above 10 words";
+"hint_address"              =   "please region";
+"hint_city"                 =   "please city";
+"hint_sel_category"         =   "please category";
+"hint_phone"                =   "please phone";
+
+"hint_username"             =   "please input your name,above 2 words";
+"hint_email"                =   "please input your email";
+"hint_password"             =   "please input your password";
+"hint_password2"            =   "please repeat your password";
+
+"hint_search"               =   "please the city or initials";
+
+"hint_detail_msg"           =   "say something";
+
+"hint_keyword"              =   "please input keyword";
+
+//<!-- nav text -->
+"main_nav_home"             =   "home";
+"main_nav_score"            =   "credit";
+"main_nav_user"             =   "personal center";
+"main_nav_publish"          =   "publish";
+
+//<!-- button txt -->
+"btn_goto_main"             =   "start";
+"btn_sort_merchandise"      =   "second-hand transaction";
+"btn_sort_estate"           =   "estate";
+"btn_sort_work"             =   "job";
+
+"btn_clear"                 =   "clear";
+
+"btn_camera"                =   "camera";
+"btn_select_file"           =   "choose image";
+
+"btn_send_addImg"           =   "add image";
+"btn_send"                  =   "send";
+"btn_add"                   =   "add";
+
+"btn_sendinfo"              =   "publish message";
+"btn_submit"                =   "submit";
+"btn_send_msg"              =   "comment";
+"btn_back"                  =   "back";
+"btn_detail"                =   "detail";
+"btn_favorites"             =   "favorites";
+
+"btn_back_locat"            =   "select city";
+
+"btn_login"                 =   "use login";
+
+"btn_edit"                  =   "edit";
+"btn_edit_pass"             =   "edit password";
+
+"btn_register"              =   "register";
+"btn_logout"                =   "logout";
+"btn_loging"                =   "loging...";
+
+"btn_register_signin"       =   "registering...";
+
+"btn_loading"               =   "loding...";
+
+"btnOK"                     =   "OK";
+"btnNO"                     =   "cancel";
+
+"btn_search"                =   "search";
+"title_search"              =   "title_search";
+
+"btn_location_welcome"      =   "welcome";
+
+"btn_location"              =   "locate";
+
+//<!-- radio txt -->
+"radio_languageZH"          =   "简体中文";
+"radio_languageZH_CN"       =   "繁體中文";
+"radio_languageEN"          =   "English";
+"radio_languageJA"          =   "日本語";
+
+//<!-- msg string -->
+"msg_exit"                  =   "Are you sure to exit?";
+"msg_delete"                =   "Are you sure to delete?";
+"msg_not_login"             =   "please login first";
+
+"msg_add_favorite_success"  =   "add to favorites successfully";
+"msg_cancel_favorite_success"  =   "cancel the collection success";
+"msg_clear"                 =   "Are you sure to clear?";
+
+"msg_not_net"               =   "please check the network connection";
+"msg_login_error"           =   "fail to login,please check the user name and password";
+"msg_login_success"         =   "login successfully";
+
+"msg_net_notinfo"           =   "fail to retrieve data,please check the network connection";
+
+"msg_send_not_msg"          =   "please input comment content";
+"msg_send_msg_success"      =   "comment successfully";
+"msg_send_msg_error"        =   "fail to comment";
+
+"msg_select"                =   "Select";
+
+"msg_select_file"           =   "please select image";
+"msg_uploading_file"        =   "uploading pictures";
+
+"msg_send_not_title"        =   "title can not be empty";
+"msg_send_not_desc"         =   "please input description";
+"msg_send_not_price"        =   "please input price";
+"msg_send_not_address"      =   "please select region";
+"msg_send_not_username"     =   "please input contact";
+"msg_send_not_name"         =   "please input name";
+"msg_send_not_phone"        =   "please input your handphone number";
+"msg_send_not_qq"           =   "please input your QQ/Skype";
+"msg_send_not_category"     =   "please select category";
+
+"msg_not_region_name"       =   "please select region";
+
+"msg_not_category_name"     =   "please input category name";
+"msg_not_sequence"          =   "please input display sequence";
+
+"msg_login_not_email"       =   "please input login email";
+"msg_login_not_pawd"        =   "please input password";
+"msg_login_not_pawd2"       =   "please repeat password";
+
+"msg_clear_cache"           =   "Are you sure to clear the cache?Clearing cache you may get more storage,but will consume more cellular data on next launching.";
+"msg_clear_temp"            =   "Are you sure to clear the provisional files?";
+
+"msg_edit_success"          =   "edit successfully";
+"msg_edit_error"            =   "fail to edit";
+
+"msg_add_success"           =   "add successfully";
+"msg_add_error"             =   "fail to add";
+
+"msg_edit_pwd_success"           =   "change password successfully";
+"msg_edit_pwd_error"             =   "fail to change password";
+
+"msg_upload_img_error"      =   "fail to upload the image";
+
+"msg_clear_success"         =   "clear successfully";
+"msg_clear_error"           =   "fail to clear";
+
+"msg_not_pawd_limit"        =   "The password at least 6";
+"msg_register_not_pawd_error"   =   "The two passwords differ";
+
+"msg_register_success"              =   "register successfully";
+"msg_register_success_login_error"  =   "Register successfully！Fail to auto login,please login manually";
+"msg_register_error"                =   "Fail to register!Please reload";
+
+"msg_send_success"          =   "publish successfully";
+"msg_send_error"            =   "fail to publish";
+
+"msg_login_check_email"     =   "email format is incorrect";
+
+"msg_city_select_city_error"    =   "fail to locate or not yet located, you may select your city directly";
+
+"msg_loading_error_reset"   =   "fail to locate,please click re-try";
+
+"msg_local_success"         =   "locate successfully";
+"msg_local_gps_isclose"     =   "GPS is not turned";
+"msg_local_click"           =   "locating...If it takes long time even time out,please select region directly";
+"msg_local_error"           =   "fail to locate,please click re-try";
+"msg_local_error2"          =   "fail to locate,please select manually";
+
+"msg_category_error"        =   "fail to load category";
+"msg_category_delete_error" =   "fail to delete,please delete the sub-categories";
+
+"msg_LoadMore"              =   "loade more";
+"msg_Load"                  =   "loading...";
+"msg_LoasLast"              =   "load to end";
+
+"msg_server_error"          =   "Server error";
+
+"msg_on_region"             =   "Only custom region can be deleted";
+"msg_tips_setting"          =   "You can modify the later in personal center - setting";
+"title_pulldown_refresh"    =   "Pull down to refresh";
+"title_Loosen_refresh"      =   "Loosen the refresh";
+
+"msg_point_tips"            =   "The integral function will open in the next version, please look, thank you !";
+
+"title_narrow_region"       =   "Narrow Region";
+
+"title_message"             =   "SMS contact";
+"title_call"                =   "Telephone contact";
+"title_refresh_location"    =   "Refresh";
+

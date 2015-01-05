@@ -1,0 +1,305 @@
+/* 
+  Localizable.strings
+  samecity
+
+  Created by zengchao on 14/11/23.
+  Copyright (c) 2014年 com.stefan. All rights reserved.
+*/
+//<!-- title -->
+"title_welcome"     =       "欢迎界面";
+"title_exit"        =       "退出";
+"title_delete"      =       "删除";
+"title_clear"       =       "清空";
+"title_reply"       =       "回复";
+"title_floor"       =       "楼";
+"title_I_review"    =       "我要评论";
+"title_map"         =       "地图";
+"title_view_user"   =       "查看用户";
+
+"title_appname"     =       "同城";
+"title_setting"     =       "设置";
+"title_feedback"    =       "意见反馈";
+"title_aboutus"     =       "关于我们";
+"title_NO_name"     =       "匿名";
+
+//<!-- label txt -->
+"lab_login"         =       "登录";
+"lab_time"          =       "时间";
+"lab_sendTime"      =       "发布时间";
+"lab_price"         =       "价格";
+"lab_detail"        =       "详  细";
+"lab_send_title"    =       "标  题";
+"lab_send_desc"     =       "描  述";
+"lab_send_price"    =       "价  格";
+"lab_send_price_unit"   =   "元";
+"lab_send_region"   =       "区  域";
+"lab_send_address"  =       "详细地址";
+"lab_send_pay_type" =       "交易类型";
+"lab_send_qq"       =       "QQ/Skype";
+"lab_send_username" =       "联系人";
+"lab_send_phone"    =       "手  机";
+
+"lab_qq"            =       "QQ/Skype";
+"lab_username"      =       "联系人";
+"lab_phone"         =       "联系方式";
+"lab_detail_phone"  =       "手机";
+
+"lab_city"          =       "城市";
+"lab_address"       =       "地址";
+"lab_message"       =       "留言信息";
+
+"lab_main_address"  =       "区域";
+
+"lab_register_name" =       "用户名";
+"lab_list_category_all" =   "全部分类";
+"lab_list_type"         =   "类型";
+
+"lab_email"             =   "邮  箱";
+"lab_password"          =   "密  码";
+"lab_password2"         =   "重复密码";
+"lab_detail_info"       =   "详细信息";
+"lab_detail_message"    =   "评  论";
+
+"lab_send_buyers"       =   "买家";
+"lab_send_seller"       =   "卖家";
+
+"lab_category_parent_name"  =   "上级分类";
+"lab_category_name"         =   "分类名称";
+"lab_category_new_name"     =   "更改名称";
+
+"lab_send_category"         =   "分类";
+"lab_category_man"          =   "分类管理";
+"lab_select_category"       =   "选择分类";
+"lab_add_category"          =   "新增分类";
+"lab_edit_category"         =   "编辑分类";
+
+"lab_user_message"          =   "消息中心";
+"lab_user_send"             =   "我的发布";
+"lab_user_favorites"        =   "我的收藏";
+"lab_user_history"          =   "浏览记录";
+
+"lab_user_operator"         =   "操作人";
+"lab_user_score"            =   "我的积分";
+"lab_category_sequence"     =   "分类顺序";
+
+"lab_user_like"             =   "猜你喜欢";
+"lab_user_search"           =   "快捷搜索";
+
+"lab_user_manage"           =   "管理中心";
+
+"lab_gps_location"          =   "GPS定位";
+"lab_location_address"      =   "城市定位";
+"lab_location_country"      =   "国家";
+"lab_location_city"         =   "城市";
+"lab_location_locality"     =   "地区";
+"lab_location_region"       =   "街道";
+
+"lab_select"                =   "选择";
+"lab_all_select"            =   "全选";
+
+"lab_local_sel_pro"         =   "选择省份";
+"lab_local_sel_area"        =   "选择地区";
+"lab_local_add_area"        =   "添加地区";
+"lab_local_add_good"        =   "添加商品";
+
+"lab_region_parent_name"    =   "上级地区";
+"lab_region_name"           =   "地区名称";
+
+"lab_localing"              =   "正在定位中...";
+"lab_localing_regex"        =   "定位成功，解析中...";
+
+"lab_location_old"          =   "上次的定位信息：";
+"lab_local_cur"             =   "当前位置：";
+
+"lab_register"              =   "新用户注册";
+"lab_not"                   =   "无";
+
+"lab_detail_reads"          =   "热度：";
+
+"lab_detail_msg"            =   "我要评论";
+
+"history_NoInfo"            =   "尚无信息";
+
+//<!-- edit hint -->
+"hint_title"                =   "请输入标题";
+"hint_content"              =   "请输入内容";
+"hint_desc"                 =   "状况、亮点等，建议10字以上";
+"hint_address"              =   "请选择区域";
+"hint_city"                 =   "请选择城市";
+"hint_sel_category"         =   "请选择分类";
+"hint_phone"                =   "联系电话";
+
+"hint_username"             =   "请输入昵称,至少2字";
+"hint_email"                =   "请输入您的邮箱";
+"hint_password"             =   "请输入密码";
+"hint_password2"            =   "请再次输入密码";
+
+"hint_search"               =   "请输入城市名称或者首写字母";
+
+"hint_detail_msg"           =   "说些什么呢";
+
+"hint_keyword"              =   "请输入关键字";
+
+//<!-- nav text -->
+"main_nav_home"             =   "首页";
+"main_nav_score"            =   "积分";
+"main_nav_user"             =   "个人中心";
+"main_nav_publish"          =   "发布";
+
+
+//<!-- button txt -->
+"btn_goto_main"             =   "开始";
+"btn_sort_merchandise"      =   "二手交易";
+"btn_sort_estate"           =   "房    产";
+"btn_sort_work"             =   "工    作";
+
+"btn_clear"                 =   "清空";
+
+"btn_camera"                =   "拍摄照片";
+"btn_select_file"           =   "选择图片";
+
+"btn_send_addImg"           =   "添加图片";
+"btn_send"                  =   "发送";
+"btn_add"                   =   "新增";
+
+"btn_sendinfo"              =   "发布信息";
+"btn_submit"                =   "提交";
+"btn_send_msg"              =   "评论";
+"btn_back"                  =   "返回";
+"btn_detail"                =   "详情";
+"btn_favorites"             =   "收藏";
+
+"btn_back_locat"            =   "选择城市";
+
+"btn_login"                 =   "登录";
+
+"btn_edit"                  =   "修改";
+"btn_edit_pass"             =   "修改密码";
+
+"btn_register"              =   "注册";
+"btn_logout"                =   "退出登录";
+"btn_loging"                =   "登录中...";
+
+"btn_register_signin"       =   "正在注册中...";
+
+"btn_loading"               =   "加载中...";
+
+"btnOK"                     =   "确定";
+"btnNO"                     =   "取消";
+
+"btn_search"                =   "搜索";
+"title_search"              =   "搜索结果";
+
+"btn_location_welcome"      =   "欢迎使用";
+
+"btn_location"              =   "定位";
+
+//<!-- radio txt -->
+"radio_languageZH"          =   "简体中文";
+"radio_languageZH_CN"       =   "繁體中文";
+"radio_languageEN"          =   "English";
+"radio_languageJA"          =   "日本語";
+
+//<!-- msg string -->
+"msg_exit"                  =   "确定退出吗？";
+"msg_delete"                =   "确定删除吗？";
+"msg_not_login"             =   "请先登录";
+
+"msg_add_favorite_success"  =   "收藏成功！";
+"msg_cancel_favorite_success"  =   "取消收藏成功！";
+"msg_clear"                 =   "确定清空信息吗！";
+
+"msg_not_net"               =   "请检查网络状态";
+"msg_login_error"           =   "登录失败，请检查账号密码是否正确";
+"msg_login_success"         =   "登录成功";
+
+"msg_net_notinfo"           =   "数据获取失败，请检查网络连接";
+
+"msg_send_not_msg"          =   "请输入评论内容";
+"msg_send_msg_success"      =   "评论成功";
+"msg_send_msg_error"        =   "评论失败";
+
+"msg_select"                =   "请选择";
+
+"msg_select_file"           =   "请选择图片";
+"msg_uploading_file"        =   "正在上传图片";
+
+"msg_send_not_title"        =   "标题不能为空";
+"msg_send_not_desc"         =   "请输入描述";
+"msg_send_not_price"        =   "请输入价格";
+"msg_send_not_address"      =   "请选择区域";
+"msg_send_not_username"     =   "请输入联系人";
+"msg_send_not_name"         =   "请输入名称";
+"msg_send_not_phone"        =   "请输入手机号码";
+"msg_send_not_qq"           =   "请输入QQ/Skype";
+"msg_send_not_category"     =   "请选择分类";
+
+"msg_not_region_name"       =   "请输入地区名称";
+
+"msg_not_category_name"     =   "请输入分类名称";
+"msg_not_sequence"          =   "请输入显示顺序";
+
+"msg_login_not_email"       =   "请输入邮箱";
+"msg_login_not_pawd"        =   "请输入密码";
+"msg_login_not_pawd2"       =   "请重复输入密码";
+
+"msg_clear_cache"           =   "确定清除缓存信息吗? 清除缓存有利于手机空间，但在下次启动的时候，会增加流量的消耗";
+"msg_clear_temp"            =   "确定清除临时文件吗？";
+
+"msg_edit_success"          =   "编辑成功";
+"msg_edit_error"            =   "编辑失败";
+
+"msg_add_success"           =   "添加成功";
+"msg_add_error"             =   "添加失败";
+
+"msg_edit_pwd_success"           =   "修改密码成功";
+"msg_edit_pwd_error"             =   "修改密码失败";
+
+"msg_upload_img_error"      =   "图片上传失败";
+
+"msg_clear_success"         =   "清理成功";
+"msg_clear_error"           =   "清理失败";
+
+"msg_not_pawd_limit"       =   "密码至少6位";
+"msg_register_not_pawd_error"   =   "两次输入的密码不一致";
+
+"msg_register_success"              =   "注册成功！";
+"msg_register_success_login_error"  =   "注册成功！自动登录失败，请手动登录";
+"msg_register_error"                =   "注册失败！请检查输入信息是否正确";
+
+"msg_send_success"          =   "发布成功";
+"msg_send_error"            =   "发布失败";
+
+"msg_login_check_email"     =   "邮箱格式不正确";
+
+"msg_city_select_city_error"    =   "定位失败或者尚未定位，可以直接选择所属城市";
+
+"msg_loading_error_reset"   =   "加载失败，请重新加载";
+
+"msg_local_success"         =   "定位成功";
+"msg_local_gps_isclose"     =   "GPS未打开";
+"msg_local_click"           =   "正在定位中，如果定位时间过长或者超时，请直接选择地区";
+"msg_local_error"           =   "定位失败，点击重试";
+"msg_local_error2"          =   "定位失败，请手动选择";
+
+"msg_category_error"        =   "分类数据加载失败";
+"msg_category_delete_error" =   "删除失败，请先删除该分类下的子类！";
+
+"msg_LoadMore"              =   "查看更多";
+"msg_Load"                  =   "加载中...";
+"msg_LoasLast"              =   "已加载到最后";
+
+"msg_server_error"          =   "服务器错误";
+
+"msg_on_region"             =   "只有自定义的区域才可以删除";
+"msg_tips_setting"          =   "您可以以后在个人中心－设置里面修改";
+"title_pulldown_refresh"    =   "下拉刷新";
+"title_Loosen_refresh"      =   "释放立即刷新";
+
+"msg_point_tips"            =   "积分功能将在下个版本开放，敬请期待，谢谢！";
+
+"title_narrow_region"       =   "缩小区域";
+
+"title_message"             =   "短信";
+"title_call"                =   "拨打电话";
+"title_refresh_location"    =   "刷新定位";
