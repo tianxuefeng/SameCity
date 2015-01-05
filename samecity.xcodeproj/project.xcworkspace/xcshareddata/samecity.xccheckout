@@ -6,6 +6,8 @@
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>BBE3062A-CE67-4740-8013-E6872582526C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>samecity</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++4275</key>
@@ -14,15 +16,21 @@
 		<string>https://172.21.126.169:8443/svn/DOTNET/iPORTAL/branches/infoskymobile.beta1/InfoskyMobile/InfoskyMobile/KissXML/Private</string>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++9547</key>
 		<string>https://172.21.126.169:8443/svn/DOTNET/iPORTAL/branches/infoskymobile.beta1/InfoskyMobile/InfoskyMobile/KissXML/Categories</string>
+		<key>D5EBA57414F81BE53770A192154B3382F1266154</key>
+		<string>https://github.com/tianxuefeng/SameCity.git</string>
 	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>samecity.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++4275</key>
-		<string>Additions/</string>
+		<string>../..SameCity/ThirdPart/KissXML/Additions/</string>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++4813</key>
-		<string>Private/</string>
+		<string>../..SameCity/ThirdPart/KissXML/Private/</string>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++9547</key>
-		<string>Categories</string>
+		<string>../..SameCity/ThirdPart/KissXML/Categories/</string>
+		<key>D5EBA57414F81BE53770A192154B3382F1266154</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectRepositoryRootDictionary</key>
 	<dict>
@@ -34,11 +42,11 @@
 		<string>https://172.21.126.169:8443/svn/DOTNET</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://172.21.126.169:8443/svn/DOTNET/iPORTAL/branches/infoskymobile.beta1/InfoskyMobile/InfoskyMobile/KissXML/Categories</string>
+	<string>https://github.com/tianxuefeng/SameCity.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>485d9fc9-4c46-b24e-b849-696c98acc132++9547</string>
+	<string>D5EBA57414F81BE53770A192154B3382F1266154</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
@@ -64,6 +72,14 @@
 			<string>485d9fc9-4c46-b24e-b849-696c98acc132++4813</string>
 			<key>IDESourceControlWCCName</key>
 			<string>Private</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D5EBA57414F81BE53770A192154B3382F1266154</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SameCity</string>
 		</dict>
 	</array>
 </dict>

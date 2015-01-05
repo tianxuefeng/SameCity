@@ -48,7 +48,7 @@
     //初始化数据
     [[UserLogin instanse] queryUserInfo];
     [[Global ShareCenter] initCitys];
-    [CoreDataEnvir registDefaultDataFileName:@"SameCity.sqlite"];
+    [CoreDataEnvir registDefaultDataFileName:@"SameCity.sqlite"];//Save to document folder might be rejected by Apple.
     [CoreDataEnvir registDefaultModelFileName:@"RegionModel"];
     
     // Override point for customization after application launch.
