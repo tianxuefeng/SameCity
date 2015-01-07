@@ -24,11 +24,11 @@
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++4275</key>
-		<string>../..SameCity/ThirdPart/KissXML/Additions/</string>
+		<string>../..SameCity/ThirdPart/KissXML/Additions</string>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++4813</key>
-		<string>../..SameCity/ThirdPart/KissXML/Private/</string>
+		<string>../..SameCity/ThirdPart/KissXML/Private</string>
 		<key>485d9fc9-4c46-b24e-b849-696c98acc132++9547</key>
-		<string>../..SameCity/ThirdPart/KissXML/Categories/</string>
+		<string>../..SameCity/ThirdPart/KissXML/Categories</string>
 		<key>D5EBA57414F81BE53770A192154B3382F1266154</key>
 		<string>../..</string>
 	</dict>
